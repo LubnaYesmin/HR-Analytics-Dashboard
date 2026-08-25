@@ -4,7 +4,7 @@
 An interactive Power BI dashboard designed to analyze employee demographics, department-wise attrition rates, salary slab distribution, and workforce metrics.
 
 ## 📸 Dashboard Preview
-![HR Dashboard](dashboard_preview.png)
+![HR Dashboard](hr_analytics_dashboard.png)
 
 ## 🛠️ Key Metrics & Features
 - **KPI Cards:** Total Employees, Active Employees, Attrition Count, Attrition Rate %, Average Age.
